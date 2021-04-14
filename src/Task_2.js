@@ -20,7 +20,7 @@ return arr.filter((a, b) => arr.indexOf(a) === (b))//returning the array with a 
                                                   //types that are the same are present, if two or more are the same, 
                                                   //then they're deleted and one only remains.
     }
-console.log(returnString([1, "22", 'abcde', 7.4, '3', 1, 22])) //console logging our arguments to run throught the function
+console.log(returnString([1, "22", 'abcde', 7.4, '3', 1, 22])) //console logging our arguments to run throughout the function
 
 
 
